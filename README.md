@@ -1,5 +1,9 @@
-# SocialityProject
+# Sociality Frontend Project
 
-Sociality Frontend Hiring Challenge
+Sociality Frontend Challenge
+
+Group by Date
+
+Dynamic Social Media Status
 
 Online Demo: https://socialityfrontend.web.app/
